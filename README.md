@@ -1,0 +1,3 @@
+# gamers-chat-socket.io
+## simple chat application for game characters like Gerald, Evior, Ezio, Bayak...
+### created using NodeJs with express library ,socket.io for bidirectional communication.
